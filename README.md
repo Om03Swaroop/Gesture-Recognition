@@ -1,6 +1,7 @@
 # Gesture-Recognition
 
 🤖 Hand Gesture Recognition using Deep Learning
+
 📌 Overview
 
 This project implements a Convolutional Neural Network (CNN) for hand gesture recognition. The system classifies gestures such as HELLO, PEACE, THUMBS UP, and YO, enabling applications like sign language translation, touchless controls, and HCI (Human–Computer Interaction).
