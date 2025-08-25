@@ -36,7 +36,7 @@ YO 🤟
 
 
 ## 📊 Workflow
-![Workflow](images/workflow.png)
+![Workflow](image/workflow.png)
 
 ## 🎥 Demo
 ![Demo](image/demo.gif)
