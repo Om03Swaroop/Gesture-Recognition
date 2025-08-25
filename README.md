@@ -36,5 +36,5 @@ YO 🤟
 
 
 ## 🎥 Demo
-![Demo](images/demo.gif)
+![Demo](images/demo(1).gif)
 
