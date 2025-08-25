@@ -1,11 +1,11 @@
 # Gesture-Recognition
-Gesture Recognition using Deep Learning – A CNN model with OpenCV preprocessing classifies hand gestures with ~95% accuracy, enabling applications like sign language translation and touchless controls.
+Gesture Recognition using Deep Learning – A CNN model with OpenCV preprocessing classifies hand gestures with ~85% accuracy, enabling applications like sign language translation and touchless controls.
 🤖 Hand Gesture Recognition using Deep Learning
 📌 Overview
 
 This project implements a Convolutional Neural Network (CNN) for hand gesture recognition. The system classifies gestures such as HELLO, PEACE, THUMBS UP, and YO, enabling applications like sign language translation, touchless controls, and HCI (Human–Computer Interaction).
 
-Built with TensorFlow/Keras and OpenCV, the model achieves high accuracy (~95%) and can run both on pre-collected datasets and real-time webcam input.
+Built with TensorFlow/Keras and OpenCV, the model achieves high accuracy (~85%) and can run both on pre-collected datasets and real-time webcam input.
 
 🚀 Features
 
