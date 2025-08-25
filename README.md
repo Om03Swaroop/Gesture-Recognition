@@ -35,6 +35,9 @@ THUMBS UP 👍
 YO 🤟
 
 
+## 📊 Workflow
+![Workflow](images/workflow.png)
+
 ## 🎥 Demo
 ![Demo](image/demo.gif)
 
